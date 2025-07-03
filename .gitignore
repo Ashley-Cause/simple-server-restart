@@ -15,9 +15,6 @@ Thumbs.db
 # Ignore IntelliJ build output directory (older versions/specific configs)
 out/
 
-# === VSCode ===
-.vscode/
-
 # === Gradle ===
 # Ignore Gradle cache directory
 .gradle/
